@@ -4,7 +4,7 @@
 1. baixar e descompactar os arquivos do projeto
 2. entrar na pasta do seu projeto pelo terminal Node.js e executar o `expo start`
   <br>***Se der erro, instalar o yarn (com `npm install -g yarn`) e usar o comando `yarn add expo`, e então repetir o passo 2
-  <br>Se você já tiver instalado o yarn antes, é só usar o comando `yarn add expo`, e então repetir o passo 2
+  <br>***Se você já tiver instalado o yarn antes, é só usar o comando `yarn add expo`, e então repetir o passo 2
 3. alterar o arquivo `app.json` para atualizar o nome do app e do pacote, assim:
   
   ```json
