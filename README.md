@@ -3,7 +3,7 @@
 
 1. baixar e descompactar os arquivos do projeto
 2. abrir para testar se está funcionando e instalar qualquer pacote que ficou faltando:
-  - entrar na pasta do seu projeto pelo terminal e executar o `expo start`
+  - entrar na pasta do seu projeto pelo terminal e executar o `npm start`
   <br>***Se der erro, instalar o yarn (com `npm install -g yarn`) e usar o comando `yarn add expo`, e então `expo start`
   <br>***Se você já tiver instalado o yarn antes, é só usar o comando `yarn add expo`, e então `expo start`
   - abrir o app para testar (para abrir no celular, use o qrCode mostrado na tela ou conecte o celular ao computador com um cabo USB e digite `a`; para abrir na web, digite `w`)
