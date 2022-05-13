@@ -3,9 +3,9 @@
 
 1. baixar e descompactar os arquivos do projeto
 2. abrir para testar se está funcionando e instalar qualquer pacote que ficou faltando:
-  - entrar na pasta do seu projeto pelo terminal e executar o `expo start`
-  <br>***Se der erro, instalar o yarn (com `npm install -g yarn`) e usar o comando `yarn add expo`, e então `expo start`
-  <br>***Se você já tiver instalado o yarn antes, é só usar o comando `yarn add expo`, e então `expo start`
+  - entrar na pasta do seu projeto pelo terminal e executar `npm i .`, para instalar todas as dependencias que seu projeto precisa
+  - executar `expo start`
+  <br>*** se tiver dificuldades com estes comandos, verifique a opção alternativa ao fim do texto
   - abrir o app para testar (para abrir no celular, use o qrCode mostrado na tela ou conecte o celular ao computador com um cabo USB e digite `a`; para abrir na web, digite `w`)
   - aperte **ctrl+c** (ou **command+c**) para parar o servidor
 3. alterar o arquivo `app.json` para atualizar o nome do app e do pacote, assim:
@@ -29,3 +29,10 @@
 <br>
 
 Você pode mandar abrir este mesmo link no celular executá-lo para instalar seu app
+
+## Opção alternativa
+
+- Se der erro ao tentar executar o passo **2**, você pode tentar usar o ***yarn*** como alternativa:
+  - instale o yarn com `npm install -g yarn` e use o comando `yarn add expo`, e então `expo start`
+  <br>*** Se você já tiver instalado o yarn antes, é só usar o comando `yarn add expo`, e então `expo start`
+  - o resto dos passos podem ser executados igualmente
