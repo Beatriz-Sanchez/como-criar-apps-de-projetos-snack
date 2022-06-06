@@ -3,7 +3,7 @@
 
 1. baixar e descompactar os arquivos do projeto
 2. abrir para testar se está funcionando e instalar qualquer pacote que ficou faltando:
-  - entrar na pasta do seu projeto pelo terminal e executar `npm i .`, para instalar todas as dependencias que seu projeto precisa
+  - entrar na pasta do seu projeto pelo terminal e executar `expo install .`, para instalar todas as dependencias que seu projeto precisa
   - executar `expo start`
   <br>*** se tiver dificuldades com estes comandos, verifique a opção alternativa ao fim do texto
   - abrir o app para testar (para abrir no celular, use o qrCode mostrado na tela ou conecte o celular ao computador com um cabo USB e digite `a`; para abrir na web, digite `w`)
